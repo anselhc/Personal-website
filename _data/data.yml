@@ -124,15 +124,15 @@ projects:
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
   - title: Automated Resistor Sorter
-    link: "#hook"
+    link: "resistor_sorter.html"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
   - title: Resistor Pick and Place
-    link: "#https://anselhc.github.io/Resistor_Pick_and_Place/"
+    link: "https://anselhc.github.io/Resistor_Pick_and_Place/"
     tagline: "A responsive website template designed to help web developers/designers market their services."
 
   - title: Air Pong
-    link: "#"
+    link: "https://olincollege.github.io/air-pong/"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
   - title: Solar Grid Model
