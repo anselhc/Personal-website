@@ -124,16 +124,16 @@ projects:
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
   - title: Automated Resistor Sorter
-    link: "resistor_sorter.html"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    link: "https://github.com/anselhc/Personal-website/blob/master/_data/resistor_sorter.html"
+    tagline: "A machine for measuring a large quantity of resistors and placing them into bins specifified by the user accroding to their resistance."
 
   - title: Resistor Pick and Place
     link: "https://anselhc.github.io/Resistor_Pick_and_Place/"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "A robotic system for extracting a single resistor from a tangled pile through trial and error."
 
   - title: Air Pong
     link: "https://olincollege.github.io/air-pong/"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "A multiplayer ping pong game with user handtracking to immitate paddle movements."
 
   - title: Solar Grid Model
     link: "#"
